@@ -1,3 +1,3 @@
 # CPE-301-Final
 
-Teammembers: Morgan Jensen
+Team Members: Morgan Jensen
